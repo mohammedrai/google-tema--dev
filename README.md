@@ -1,2 +1,2 @@
-# google-tema--dev
+# google-tema-odev
 kodluyoruz tarafından istenilen bir ödevdir
